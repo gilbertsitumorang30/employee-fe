@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center py-10">
-      <h1 className="text-3xl font-bold mb-6">CRUD Employee DEMO UTS Percobaan 1</h1>
+      <h1 className="text-3xl font-bold mb-6">CRUD Employee DEMO UTS Percobaan ke 2 (dua)</h1>
 
       {/* Form Input */}
       <form
